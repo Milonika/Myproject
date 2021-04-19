@@ -19,6 +19,7 @@ namespace Myproject
 
         private void Reactangle_Click(object sender, EventArgs e)
         {
+            ///
 
         }
 
