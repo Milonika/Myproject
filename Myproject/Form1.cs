@@ -19,7 +19,9 @@ namespace Myproject
 
         private void Reactangle_Click(object sender, EventArgs e)
         {
-            ///
+            Form2 newForm = new Form2();
+            newForm.Show();
+
 
         }
 

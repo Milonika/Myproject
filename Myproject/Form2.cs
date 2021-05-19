@@ -16,5 +16,20 @@ namespace Myproject
         {
             InitializeComponent();
         }
+
+        private void color_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void fontDialog1_Apply(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
